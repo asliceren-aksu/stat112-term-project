@@ -1,4 +1,4 @@
-# Auto Sales & Economic Indicators
+# Auto Sales & Economic Indicators — STAT 112 Term Project
 
 **Tableau dashboard · Exploratory data analysis · METU STAT 112 · 2024**
 
